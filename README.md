@@ -7,3 +7,4 @@ rng based part of the game which is probably the only fun part unless you enjoy 
 I tried solving the problem myself and if I really couldn't solve it, I asked a friend to help.
 
 https://drive.google.com/file/d/1j0CTY4S7cT-uJ5YqENwshlwmjJE8A80l/view?usp=sharing
+https://docs.google.com/presentation/d/1gt0Fr4CFkAvUTWFRyl7QgOecHX5z26AtymkcH728cwo/edit?usp=sharing
